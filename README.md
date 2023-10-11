@@ -31,4 +31,9 @@ I have now tried:
 
 # End Results
 I only ended with one of three methods I had wanted to create and have been caught in a roadblock on how to make **every** monster into an object in a list of some kind, instead of just pulling one at a time
+
+# I LIED THAT WASN'T THE END BECAUSE WE GOT AN EXTENSION AND KYAH HANSON IS A GOD
+She is the only reason this works she figured out and showed me how to make a "Meta" class for my information so that it goes through a conversion before it becomes a list so it's not directly JSON ---> list and so it works now
+- I had one small formatting error after she fixed it still, but it was just me calling on the wrong class's ToString() pretty much and was an easy fix
+- After that, I had free reign to make the category filter a user input method (which works without error bc of me fixing it earlier as well) and so now I'm going to keep experimenting just in case I can figure out anything else interesting to use
     
